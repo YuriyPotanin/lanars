@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "db": {
+    "name": "lanars",
+    "username": "root",
+    "password": "1"
+  },
+  "auth": {
+    "secret": "hello world"
+  }
+}
